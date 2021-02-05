@@ -1,3 +1,6 @@
+<?php 
+  date_default_timezone_set('America/Sao_Paulo');
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -18,6 +21,7 @@
             <br>
         </header>
         <section>
+            
             <!-- formulário -->
             <form>
                 <div class="form-row align-items-center">
